@@ -1,7 +1,7 @@
 Простой прокси для определенных сайтов, без реклам и прочего
 
 
-# Установка и использование DATAFOOD Proxy Manager
+# Установка и использование Proxy Manager
 
 ## Шаг 1: Скачать расширение с GitHub
 1. Перейдите в раздел [Releases](https://github.com/denis660/Chrome-proxy-manager/releases) репозитория.
