@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Proxy Manager",
+  "version": "1.0",
+  "description": "Менеджер прокси для включения прокси на определенных сайтах.",
+  "permissions": ["proxy", "tabs", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Proxy Manager"
+  }
+}
