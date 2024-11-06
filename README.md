@@ -7,11 +7,11 @@
 1. Перейдите в раздел [Releases](https://github.com/denis660/Chrome-proxy-manager/releases) репозитория.
 2. Найдите последнюю стабильную версию расширения и загрузите файл с расширением в формате `.zip` (например, `Chrome-proxy-manager-1.0.0.zip`).
 3. Распакуйте загруженный архив в удобное место на компьютере. После распаковки папка должна содержать такие файлы и папки:
-Chrome-proxy-manager/
-├── manifest.json
-├── popup.html
-├── popup.js
-├── background.js
+Chrome-proxy-manager/  
+├── manifest.json  
+├── popup.html  
+├── popup.js  
+├── background.js  
 
 
 ## Шаг 2: Включение режима разработчика в Chrome
